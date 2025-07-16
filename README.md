@@ -64,7 +64,5 @@ Click interval or duration (if implemented)
 Disclaimer
 Use this tool responsibly. Some applications, especially games, may prohibit the use of auto clickers. The developer is not liable for any misuse or violation of terms of service.
 
----
-
-Let me know if you'd like me to create the `requirements.txt` file or give you a zipped project structure!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
